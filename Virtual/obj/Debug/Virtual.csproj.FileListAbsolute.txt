@@ -1,0 +1,6 @@
+C:\Users\Luana\source\repos\CFBcursos\Virtual\bin\Debug\Virtual.exe.config
+C:\Users\Luana\source\repos\CFBcursos\Virtual\bin\Debug\Virtual.exe
+C:\Users\Luana\source\repos\CFBcursos\Virtual\bin\Debug\Virtual.pdb
+C:\Users\Luana\source\repos\CFBcursos\Virtual\obj\Debug\Virtual.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\Virtual\obj\Debug\Virtual.exe
+C:\Users\Luana\source\repos\CFBcursos\Virtual\obj\Debug\Virtual.pdb

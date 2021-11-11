@@ -1,0 +1,13 @@
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\bin\Debug\netcoreapp3.1\FOREACH.exe
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\bin\Debug\netcoreapp3.1\FOREACH.deps.json
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\bin\Debug\netcoreapp3.1\FOREACH.runtimeconfig.json
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\bin\Debug\netcoreapp3.1\FOREACH.runtimeconfig.dev.json
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\bin\Debug\netcoreapp3.1\FOREACH.dll
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\bin\Debug\netcoreapp3.1\FOREACH.pdb
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\obj\Debug\netcoreapp3.1\FOREACH.AssemblyInfoInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\obj\Debug\netcoreapp3.1\FOREACH.AssemblyInfo.cs
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\obj\Debug\netcoreapp3.1\FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\obj\Debug\netcoreapp3.1\FOREACH.dll
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\obj\Debug\netcoreapp3.1\FOREACH.pdb
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\obj\Debug\netcoreapp3.1\FOREACH.genruntimeconfig.cache
+C:\Users\Luana\source\repos\CFBcursos\FOREACH\obj\Debug\netcoreapp3.1\FOREACH.csprojAssemblyReference.cache

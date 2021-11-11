@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\Luana\source\repos\CFBcursos\Heranca\bin\Debug\Heranca.exe
+C:\Users\Luana\source\repos\CFBcursos\Heranca\bin\Debug\Heranca.pdb
+C:\Users\Luana\source\repos\CFBcursos\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\Heranca\obj\Debug\Heranca.exe
+C:\Users\Luana\source\repos\CFBcursos\Heranca\obj\Debug\Heranca.pdb
+C:\Users\Luana\source\repos\CFBcursos\Heranca\obj\Debug\Heranca.csprojAssemblyReference.cache

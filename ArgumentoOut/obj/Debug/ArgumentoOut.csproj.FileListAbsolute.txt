@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoOut\bin\Debug\ArgumentoOut.exe.config
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoOut\bin\Debug\ArgumentoOut.exe
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoOut\bin\Debug\ArgumentoOut.pdb
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoOut\obj\Debug\ArgumentoOut.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoOut\obj\Debug\ArgumentoOut.exe
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoOut\obj\Debug\ArgumentoOut.pdb
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoOut\obj\Debug\ArgumentoOut.csprojAssemblyReference.cache

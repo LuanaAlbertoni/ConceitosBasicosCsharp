@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\ConstrutoresEDestrutores\bin\Debug\ConstrutoresEDestrutores.exe.config
+C:\Users\Luana\source\repos\CFBcursos\ConstrutoresEDestrutores\bin\Debug\ConstrutoresEDestrutores.exe
+C:\Users\Luana\source\repos\CFBcursos\ConstrutoresEDestrutores\bin\Debug\ConstrutoresEDestrutores.pdb
+C:\Users\Luana\source\repos\CFBcursos\ConstrutoresEDestrutores\obj\Debug\ConstrutoresEDestrutores.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\ConstrutoresEDestrutores\obj\Debug\ConstrutoresEDestrutores.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\ConstrutoresEDestrutores\obj\Debug\ConstrutoresEDestrutores.exe
+C:\Users\Luana\source\repos\CFBcursos\ConstrutoresEDestrutores\obj\Debug\ConstrutoresEDestrutores.pdb

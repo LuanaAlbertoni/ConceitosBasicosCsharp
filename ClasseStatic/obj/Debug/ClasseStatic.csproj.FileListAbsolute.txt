@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\ClasseStatic\obj\Debug\ClasseStatic.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\ClasseStatic\obj\Debug\ClasseStatic.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\ClasseStatic\bin\Debug\ClasseStatic.exe.config
+C:\Users\Luana\source\repos\CFBcursos\ClasseStatic\bin\Debug\ClasseStatic.exe
+C:\Users\Luana\source\repos\CFBcursos\ClasseStatic\bin\Debug\ClasseStatic.pdb
+C:\Users\Luana\source\repos\CFBcursos\ClasseStatic\obj\Debug\ClasseStatic.exe
+C:\Users\Luana\source\repos\CFBcursos\ClasseStatic\obj\Debug\ClasseStatic.pdb

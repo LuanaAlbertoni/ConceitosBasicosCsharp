@@ -1,0 +1,6 @@
+C:\Users\Luana\source\repos\CFBcursos\OrdemDeExecucao\bin\Debug\OrdemDeExecucao.exe.config
+C:\Users\Luana\source\repos\CFBcursos\OrdemDeExecucao\bin\Debug\OrdemDeExecucao.exe
+C:\Users\Luana\source\repos\CFBcursos\OrdemDeExecucao\bin\Debug\OrdemDeExecucao.pdb
+C:\Users\Luana\source\repos\CFBcursos\OrdemDeExecucao\obj\Debug\OrdemDeExecucao.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\OrdemDeExecucao\obj\Debug\OrdemDeExecucao.exe
+C:\Users\Luana\source\repos\CFBcursos\OrdemDeExecucao\obj\Debug\OrdemDeExecucao.pdb

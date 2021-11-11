@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoParams\bin\Debug\ArgumentoParams.exe.config
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoParams\bin\Debug\ArgumentoParams.exe
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoParams\bin\Debug\ArgumentoParams.pdb
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoParams\obj\Debug\ArgumentoParams.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoParams\obj\Debug\ArgumentoParams.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoParams\obj\Debug\ArgumentoParams.exe
+C:\Users\Luana\source\repos\CFBcursos\ArgumentoParams\obj\Debug\ArgumentoParams.pdb

@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\PassagemPorValorEReferencia\bin\Debug\PassagemPorValorEReferencia.exe.config
+C:\Users\Luana\source\repos\CFBcursos\PassagemPorValorEReferencia\bin\Debug\PassagemPorValorEReferencia.exe
+C:\Users\Luana\source\repos\CFBcursos\PassagemPorValorEReferencia\bin\Debug\PassagemPorValorEReferencia.pdb
+C:\Users\Luana\source\repos\CFBcursos\PassagemPorValorEReferencia\obj\Debug\PassagemPorValorEReferencia.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\PassagemPorValorEReferencia\obj\Debug\PassagemPorValorEReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\PassagemPorValorEReferencia\obj\Debug\PassagemPorValorEReferencia.exe
+C:\Users\Luana\source\repos\CFBcursos\PassagemPorValorEReferencia\obj\Debug\PassagemPorValorEReferencia.pdb

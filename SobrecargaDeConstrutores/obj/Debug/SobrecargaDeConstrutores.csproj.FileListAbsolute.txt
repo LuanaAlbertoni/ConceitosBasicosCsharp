@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\SobrecargaDeConstrutores\bin\Debug\SobrecargaDeConstrutores.exe.config
+C:\Users\Luana\source\repos\CFBcursos\SobrecargaDeConstrutores\bin\Debug\SobrecargaDeConstrutores.exe
+C:\Users\Luana\source\repos\CFBcursos\SobrecargaDeConstrutores\bin\Debug\SobrecargaDeConstrutores.pdb
+C:\Users\Luana\source\repos\CFBcursos\SobrecargaDeConstrutores\obj\Debug\SobrecargaDeConstrutores.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\SobrecargaDeConstrutores\obj\Debug\SobrecargaDeConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\SobrecargaDeConstrutores\obj\Debug\SobrecargaDeConstrutores.exe
+C:\Users\Luana\source\repos\CFBcursos\SobrecargaDeConstrutores\obj\Debug\SobrecargaDeConstrutores.pdb

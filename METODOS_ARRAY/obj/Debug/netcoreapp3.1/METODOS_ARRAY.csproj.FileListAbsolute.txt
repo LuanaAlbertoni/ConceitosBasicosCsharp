@@ -1,0 +1,13 @@
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\bin\Debug\netcoreapp3.1\METODOS_ARRAY.exe
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\bin\Debug\netcoreapp3.1\METODOS_ARRAY.deps.json
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\bin\Debug\netcoreapp3.1\METODOS_ARRAY.runtimeconfig.json
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\bin\Debug\netcoreapp3.1\METODOS_ARRAY.runtimeconfig.dev.json
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\bin\Debug\netcoreapp3.1\METODOS_ARRAY.dll
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\bin\Debug\netcoreapp3.1\METODOS_ARRAY.pdb
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\obj\Debug\netcoreapp3.1\METODOS_ARRAY.AssemblyInfoInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\obj\Debug\netcoreapp3.1\METODOS_ARRAY.AssemblyInfo.cs
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\obj\Debug\netcoreapp3.1\METODOS_ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\obj\Debug\netcoreapp3.1\METODOS_ARRAY.dll
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\obj\Debug\netcoreapp3.1\METODOS_ARRAY.pdb
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\obj\Debug\netcoreapp3.1\METODOS_ARRAY.genruntimeconfig.cache
+C:\Users\Luana\source\repos\CFBcursos\METODOS_ARRAY\obj\Debug\netcoreapp3.1\METODOS_ARRAY.csprojAssemblyReference.cache

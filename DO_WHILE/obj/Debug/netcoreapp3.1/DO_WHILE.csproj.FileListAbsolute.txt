@@ -1,0 +1,13 @@
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\bin\Debug\netcoreapp3.1\DO_WHILE.exe
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\bin\Debug\netcoreapp3.1\DO_WHILE.deps.json
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\bin\Debug\netcoreapp3.1\DO_WHILE.runtimeconfig.json
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\bin\Debug\netcoreapp3.1\DO_WHILE.runtimeconfig.dev.json
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\bin\Debug\netcoreapp3.1\DO_WHILE.dll
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\bin\Debug\netcoreapp3.1\DO_WHILE.pdb
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\obj\Debug\netcoreapp3.1\DO_WHILE.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\obj\Debug\netcoreapp3.1\DO_WHILE.AssemblyInfoInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\obj\Debug\netcoreapp3.1\DO_WHILE.AssemblyInfo.cs
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\obj\Debug\netcoreapp3.1\DO_WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\obj\Debug\netcoreapp3.1\DO_WHILE.dll
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\obj\Debug\netcoreapp3.1\DO_WHILE.pdb
+C:\Users\Luana\source\repos\CFBcursos\DO_WHILE\obj\Debug\netcoreapp3.1\DO_WHILE.genruntimeconfig.cache

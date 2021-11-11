@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\Protected\bin\Debug\Protected.exe.config
+C:\Users\Luana\source\repos\CFBcursos\Protected\bin\Debug\Protected.exe
+C:\Users\Luana\source\repos\CFBcursos\Protected\bin\Debug\Protected.pdb
+C:\Users\Luana\source\repos\CFBcursos\Protected\obj\Debug\Protected.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\Protected\obj\Debug\Protected.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\Protected\obj\Debug\Protected.exe
+C:\Users\Luana\source\repos\CFBcursos\Protected\obj\Debug\Protected.pdb

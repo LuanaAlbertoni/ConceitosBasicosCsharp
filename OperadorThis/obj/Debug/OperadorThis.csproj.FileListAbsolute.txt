@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\OperadorThis\bin\Debug\OperadorThis.exe.config
+C:\Users\Luana\source\repos\CFBcursos\OperadorThis\bin\Debug\OperadorThis.exe
+C:\Users\Luana\source\repos\CFBcursos\OperadorThis\bin\Debug\OperadorThis.pdb
+C:\Users\Luana\source\repos\CFBcursos\OperadorThis\obj\Debug\OperadorThis.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\OperadorThis\obj\Debug\OperadorThis.exe
+C:\Users\Luana\source\repos\CFBcursos\OperadorThis\obj\Debug\OperadorThis.pdb
+C:\Users\Luana\source\repos\CFBcursos\OperadorThis\obj\Debug\OperadorThis.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Luana\source\repos\CFBcursos\PublicVsPrivate\bin\Debug\PublicVsPrivate.exe.config
+C:\Users\Luana\source\repos\CFBcursos\PublicVsPrivate\bin\Debug\PublicVsPrivate.exe
+C:\Users\Luana\source\repos\CFBcursos\PublicVsPrivate\bin\Debug\PublicVsPrivate.pdb
+C:\Users\Luana\source\repos\CFBcursos\PublicVsPrivate\obj\Debug\PublicVsPrivate.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\PublicVsPrivate\obj\Debug\PublicVsPrivate.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\PublicVsPrivate\obj\Debug\PublicVsPrivate.exe
+C:\Users\Luana\source\repos\CFBcursos\PublicVsPrivate\obj\Debug\PublicVsPrivate.pdb

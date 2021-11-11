@@ -1,0 +1,13 @@
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\bin\Debug\netcoreapp3.1\CFBcursos.exe
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\bin\Debug\netcoreapp3.1\CFBcursos.deps.json
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\bin\Debug\netcoreapp3.1\CFBcursos.runtimeconfig.json
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\bin\Debug\netcoreapp3.1\CFBcursos.runtimeconfig.dev.json
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\bin\Debug\netcoreapp3.1\CFBcursos.dll
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\bin\Debug\netcoreapp3.1\CFBcursos.pdb
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\obj\Debug\netcoreapp3.1\CFBcursos.csprojAssemblyReference.cache
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\obj\Debug\netcoreapp3.1\CFBcursos.AssemblyInfoInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\obj\Debug\netcoreapp3.1\CFBcursos.AssemblyInfo.cs
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\obj\Debug\netcoreapp3.1\CFBcursos.csproj.CoreCompileInputs.cache
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\obj\Debug\netcoreapp3.1\CFBcursos.dll
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\obj\Debug\netcoreapp3.1\CFBcursos.pdb
+C:\Users\Luana\source\repos\CFBcursos\CFBcursos\obj\Debug\netcoreapp3.1\CFBcursos.genruntimeconfig.cache
